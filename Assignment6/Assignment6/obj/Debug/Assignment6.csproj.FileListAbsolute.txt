@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\C#_File\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\HP\Desktop\C#_File\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\HP\Desktop\C#_File\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\HP\Desktop\C#_File\Assignment6\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#_File\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\HP\Desktop\C#_File\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
